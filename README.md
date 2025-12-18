@@ -5,7 +5,7 @@ An executive-ready **Finance Analytics Dashboard** built to monitor **financial 
 This project simulates the kind of **decision-support dashboards used by CFOs, FP&A teams, and finance leaders** to track performance, manage risk, and improve profitability.
 
 **Live Dashboard:**  
-https://your-streamlit-app-link.streamlit.app
+https://finance-intelligence-dashboard.streamlit.app
 
 ---
 
